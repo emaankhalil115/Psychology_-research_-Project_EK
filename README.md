@@ -17,3 +17,5 @@ This is a fictional psychology class project to understand how study habits affe
 
 ### Privacy reminder
 No personal records, real names, or identifiable participant data will be uploaded. Only fictional or non-sensitive data will be used.
+### Next step
+Our next step is to create a sample survey form and discuss it in the next class meeting.
